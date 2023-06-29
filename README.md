@@ -38,14 +38,12 @@
   
 ## 1. Introduction
 ### 1.1 Background <a id="background"></a>
-This is my Capstone Project for my Google Data Analytics Professional Certificate course ([Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?skipBrowseRedirect=true)). As a case study in this project, I would be working on Smart device users’ Daily fitness data. 
-This dataset, which I would be analysing is in the public domain and has been provided by the course. I am to assume a junior data analyst position working on the marketing team at the health and wellness company Bellabeat.
-Let's go.
+THere is my Capstone Project for the Google Data Analytics Professional Certificate course on Coursera. In this project, I will focus on analyzing the daily fitness data of users of smart devices. The dataset I will be using for this analysis is publicly available and has been provided by the course. For the purpose of this project, I will take on the role of a junior data analyst within the marketing team at Bellabeat, a health and wellness company. Let's get started!
 
 ### 1.2 Case Scenario<a id="scenario"></a>
-I joined Bellabeat marketing analyst team six months ago as a junior Data analyst and have been busy learning about Bellabeat’s mission and business goals — as well as how I, as a junior data analyst, can help Bellabeat achieve them.\
-[Bellabeat](https://bellabeat.com/) is a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but we have the potential to become a larger player in the global smart device market. **Urška Sršen**, cofounder and Chief Creative Oﬃcer of Bellabeat, believes that analyzing smart device ﬁtness data could help unlock new growth opportunities for the company. \
-I have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will then help guide marketing strategy for the company. I will be presenting my analysis to the Bellabeat executive team along with a high-level recommendation for Bellabeat’s marketing strategy.
+As a junior Data analyst, I joined the marketing analyst team at Bellabeat six months ago. During this time, I have been dedicated to understanding Bellabeat's mission and business objectives, as well as discovering how my role can contribute to their achievement.
+Bellabeat is a successful small company that specializes in manufacturing high-tech health-focused products designed for women. While we have already achieved considerable success, we aspire to expand our presence in the global smart device market. Recognizing the potential for growth, Urška Sršen, the co-founder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data holds the key to unlocking new opportunities for the company.
+In line with this, I have been given the task of focusing on one of Bellabeat's products and analyzing the data from smart devices. The goal is to gain valuable insights into how consumers utilize their smart devices, which will then inform and shape our marketing strategy. Ultimately, I will present my analysis and provide the Bellabeat executive team with a comprehensive recommendation for their marketing strategy.
 
 
 ## 2. Ask
